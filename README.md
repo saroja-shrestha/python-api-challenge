@@ -1,4 +1,4 @@
-# WeatherPy:
+# Analysis of WeatherPy:
 Temperature vs. Latitude Linear Regression Plot:
 Northern Hemisphere: An r-value of -0.8338541576984546 indicates a strong negative correlation between the 'Latitude' and 'Max Temp' variables in the Northern Hemisphere dataset. This means that as the latitude increases (moving further north), the maximum temperature tends to decrease. The closer the r-value is to -1, the stronger the negative correlation.
 Southern Hemisphere: An r-value of 0.7339566849009767 indicates a positive correlation between the 'Latitude' and 'Max Temp' variables in the Southern Hemisphere dataset. This means that as the latitude increases (moving further south), the maximum temperature tends to increase as well. The closer the r-value is to 1, the stronger the positive correlation.
@@ -17,9 +17,3 @@ Southern Hemisphere: The r-value 0.3295403758256422 being positive suggests that
 Wind Speed vs. Latitude Linear Regression Plot:
 Northern Hemisphere: An r-value of 0.16742232643667618 indicates a weak positive correlation between the 'Latitude' and 'Wind Speed' variables in the Northern Hemisphere dataset. This suggests that there is a slight tendency for wind speed to increase as latitude increases, but the correlation is not very strong.
 Southern Hemisphere: An r-value of -0.13678236095817486 indicates a weak negative correlation between the 'Latitude' and 'Wind Speed' variables in the Southern Hemisphere dataset. This suggests that there is a slight tendency for wind speed to decrease as latitude increases in the Southern Hemisphere, but the correlation is not very strong. 
-
-
-For the WeatherPY, I got help from a tutor.
-
-# VacationPy:
-For VacationPy, I took help from TA and my bootcamp friend Taniya.
